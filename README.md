@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🧠 Big computational neuroscience enthusiast.
+- 🔭I'm specifically interested in using nonlinear dynamics and reinforcement learning to study problems in learning, memory, and decision making.
+- 🎓 My BSc is in electrical engineering and am pursuing my MSc in Biomedical Engineering.
+- 🏫 I've been teaching programming in Python and C++ to high school students for four years.
+- 📫 You can reach me by [email](moeentayebi@gmail.com).
 <!--
 **MoeenTB/MoeenTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
